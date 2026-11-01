@@ -1,0 +1,49 @@
+{
+  "city": "albany",
+  "snapshot_date": "2026-09-14",
+  "license": "CC BY 4.0",
+  "files": {
+    "listings": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/data/listings.csv.gz",
+      "sha256": "7ea0f0b30d2d93b86c2c74aa083403ffe84d61474f94bc27861177ae15ef2c3f",
+      "bytes": 269782,
+      "downloaded_at": "2026-11-01T08:14:16.949390+00:00"
+    },
+    "calendar": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/data/calendar.csv.gz",
+      "sha256": "fdfdc6f94a014b2d1d3c9ac7059d8139c84066d0a21c32a962ebb88a2c90ad09",
+      "bytes": 434176,
+      "downloaded_at": "2026-11-01T08:14:20.589714+00:00"
+    },
+    "reviews": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/data/reviews.csv.gz",
+      "sha256": "ee04d6aafa1543fb4f8244aad4cb82a6928faeb53b935688303177ee2d7f8152",
+      "bytes": 2827571,
+      "downloaded_at": "2026-11-01T08:14:34.408580+00:00"
+    },
+    "listings_summary": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/visualisations/listings.csv",
+      "sha256": "97a34144242c1647e318829e8644b8daea2e4781c10ca5de81d1719e8cb2f8a8",
+      "bytes": 90405,
+      "downloaded_at": "2026-11-01T08:14:38.492845+00:00"
+    },
+    "reviews_summary": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/visualisations/reviews.csv",
+      "sha256": "b257620768b35d1e3c6c69b1c03caeea5d06278899e4a03735b6b4ec5c7b7b5f",
+      "bytes": 724033,
+      "downloaded_at": "2026-11-01T08:14:45.851420+00:00"
+    },
+    "neighbourhoods": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/visualisations/neighbourhoods.csv",
+      "sha256": "083fbf0b5b92f3c639ac12b3dbcbb26783ca32874d5e32e53053646cd054fd6e",
+      "bytes": 240,
+      "downloaded_at": "2026-11-01T08:14:49.313663+00:00"
+    },
+    "boundaries": {
+      "url": "https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/visualisations/neighbourhoods.geojson",
+      "sha256": "fa8c79d36ba969bfae424d5363fb8c719aa19b12bdfc35161d327f4b7c690b41",
+      "bytes": 84787,
+      "downloaded_at": "2026-11-01T08:14:53.509441+00:00"
+    }
+  }
+}
