@@ -6,7 +6,7 @@ target=root/'tmp/publish'
 if not (target/'.git').is_dir():
     raise SystemExit('Clone the destination repository into tmp/publish first.')
 folders=['src','tests','configs','sql','docs','notebooks','scripts','.github','outputs']
-files=['README.md','.gitignore','.dockerignore','pyproject.toml','requirements.lock','Dockerfile','compose.yaml']
+files=['README.md','.gitignore','.gitattributes','.dockerignore','pyproject.toml','requirements.lock','Dockerfile','compose.yaml']
 for name in folders:
     for p in (root/name).rglob('*'):
         if p.is_file() and not any(x in p.parts for x in ['__pycache__','private','.ipynb_checkpoints']) and not any(x.endswith('.egg-info') for x in p.parts):
