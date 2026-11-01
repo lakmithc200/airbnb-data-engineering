@@ -1,0 +1,1548 @@
+{
+  "summary": {
+    "listings": 500,
+    "hosts": 200,
+    "reviews": 30251,
+    "calendar_rows": 182500,
+    "priced_listings": 467,
+    "missing_or_nonpositive_price": 33,
+    "median_price": 144.0,
+    "mean_price": 292.5944325481799,
+    "p90_price": 308.00000000000017,
+    "top_10pct_host_supply_share": 0.442,
+    "rated_listings": 449,
+    "mean_rating": 4.737104677060134,
+    "mean_unavailable_share": 0.3087561643835617
+  },
+  "neighbourhoods": [
+    {
+      "neighbourhood": "EIGHTH WARD",
+      "listings": 14,
+      "hosts": 12,
+      "priced": 11,
+      "median_price": 270.0,
+      "mean_price": 252.00363636363636,
+      "mean_ci95_low": 193.33895833333332,
+      "mean_ci95_high": 316.88749999999993,
+      "average_rating": 4.944545454545454,
+      "unavailable_share": 0.4410958904109589,
+      "reviews_last_365d": 257
+    },
+    {
+      "neighbourhood": "ELEVENTH WARD",
+      "listings": 39,
+      "hosts": 10,
+      "priced": 38,
+      "median_price": 98.1,
+      "mean_price": 101.53526315789473,
+      "mean_ci95_low": 74.14727307692309,
+      "mean_ci95_high": 121.77223601398599,
+      "average_rating": 4.222941176470588,
+      "unavailable_share": 0.08865472427116262,
+      "reviews_last_365d": 243
+    },
+    {
+      "neighbourhood": "FIFTEENTH WARD",
+      "listings": 17,
+      "hosts": 9,
+      "priced": 17,
+      "median_price": 245.0,
+      "mean_price": 276.9541176470588,
+      "mean_ci95_low": 167.00326923076923,
+      "mean_ci95_high": 354.030671875,
+      "average_rating": 4.89235294117647,
+      "unavailable_share": 0.18436744560838034,
+      "reviews_last_365d": 304
+    },
+    {
+      "neighbourhood": "FIFTH WARD",
+      "listings": 12,
+      "hosts": 8,
+      "priced": 12,
+      "median_price": 85.875,
+      "mean_price": 126.47666666666667,
+      "mean_ci95_low": 92.25036874999999,
+      "mean_ci95_high": 203.59053124999994,
+      "average_rating": 4.291250000000001,
+      "unavailable_share": 0.17602739726027397,
+      "reviews_last_365d": 55
+    },
+    {
+      "neighbourhood": "FIRST WARD",
+      "listings": 13,
+      "hosts": 12,
+      "priced": 10,
+      "median_price": 187.565,
+      "mean_price": 221.64600000000002,
+      "mean_ci95_low": 142.81094090909093,
+      "mean_ci95_high": 336.55618333333325,
+      "average_rating": 4.65,
+      "unavailable_share": 0.3772391991570074,
+      "reviews_last_365d": 124
+    },
+    {
+      "neighbourhood": "FOURTEENTH WARD",
+      "listings": 34,
+      "hosts": 21,
+      "priced": 33,
+      "median_price": 101.67,
+      "mean_price": 182.23818181818183,
+      "mean_ci95_low": 122.37173529411766,
+      "mean_ci95_high": 244.54409582228115,
+      "average_rating": 4.8921875,
+      "unavailable_share": 0.33964544721998385,
+      "reviews_last_365d": 727
+    },
+    {
+      "neighbourhood": "FOURTH WARD",
+      "listings": 16,
+      "hosts": 11,
+      "priced": 15,
+      "median_price": 212.0,
+      "mean_price": 968.8,
+      "mean_ci95_low": 176.09,
+      "mean_ci95_high": 3634.09375,
+      "average_rating": 4.7524999999999995,
+      "unavailable_share": 0.47534246575342465,
+      "reviews_last_365d": 143
+    },
+    {
+      "neighbourhood": "NINTH WARD",
+      "listings": 45,
+      "hosts": 22,
+      "priced": 44,
+      "median_price": 122.0,
+      "mean_price": 162.78295454545454,
+      "mean_ci95_low": 114.59218248772505,
+      "mean_ci95_high": 218.57615196078427,
+      "average_rating": 4.795,
+      "unavailable_share": 0.29132420091324196,
+      "reviews_last_365d": 379
+    },
+    {
+      "neighbourhood": "SECOND WARD",
+      "listings": 45,
+      "hosts": 21,
+      "priced": 42,
+      "median_price": 188.25,
+      "mean_price": 216.90333333333334,
+      "mean_ci95_low": 149.67244989224136,
+      "mean_ci95_high": 276.01838304347825,
+      "average_rating": 4.737209302325581,
+      "unavailable_share": 0.3425875190258752,
+      "reviews_last_365d": 1019
+    },
+    {
+      "neighbourhood": "SEVENTH WARD",
+      "listings": 14,
+      "hosts": 10,
+      "priced": 14,
+      "median_price": 172.0,
+      "mean_price": 197.54785714285714,
+      "mean_ci95_low": 123.86148214285714,
+      "mean_ci95_high": 259.66232307692303,
+      "average_rating": 4.709230769230769,
+      "unavailable_share": 0.2698630136986301,
+      "reviews_last_365d": 141
+    },
+    {
+      "neighbourhood": "SIXTH WARD",
+      "listings": 116,
+      "hosts": 54,
+      "priced": 109,
+      "median_price": 155.0,
+      "mean_price": 578.5947706422018,
+      "mean_ci95_low": 146.03200153846151,
+      "mean_ci95_high": 1639.7343528225804,
+      "average_rating": 4.744077669902913,
+      "unavailable_share": 0.29513462446858757,
+      "reviews_last_365d": 2053
+    },
+    {
+      "neighbourhood": "TENTH WARD",
+      "listings": 57,
+      "hosts": 19,
+      "priced": 49,
+      "median_price": 103.0,
+      "mean_price": 152.12591836734694,
+      "mean_ci95_low": 100.3896008986928,
+      "mean_ci95_high": 218.284781121751,
+      "average_rating": 4.8341666666666665,
+      "unavailable_share": 0.3250180245133382,
+      "reviews_last_365d": 278
+    },
+    {
+      "neighbourhood": "THIRD WARD",
+      "listings": 31,
+      "hosts": 21,
+      "priced": 28,
+      "median_price": 160.0,
+      "mean_price": 153.0457142857143,
+      "mean_ci95_low": 118.29964655172414,
+      "mean_ci95_high": 191.8762708333333,
+      "average_rating": 4.717777777777777,
+      "unavailable_share": 0.3293857711003093,
+      "reviews_last_365d": 235
+    },
+    {
+      "neighbourhood": "THIRTEENTH WARD",
+      "listings": 43,
+      "hosts": 19,
+      "priced": 43,
+      "median_price": 111.07,
+      "mean_price": 155.43302325581394,
+      "mean_ci95_low": 108.42553571428572,
+      "mean_ci95_high": 197.2007539893617,
+      "average_rating": 4.850243902439025,
+      "unavailable_share": 0.4425613252628226,
+      "reviews_last_365d": 410
+    },
+    {
+      "neighbourhood": "TWELFTH WARD",
+      "listings": 4,
+      "hosts": 4,
+      "priced": 2,
+      "median_price": 247.5,
+      "mean_price": 247.5,
+      "mean_ci95_low": null,
+      "mean_ci95_high": null,
+      "average_rating": 4.84,
+      "unavailable_share": 0.28356164383561644,
+      "reviews_last_365d": 5
+    }
+  ],
+  "room_types": [
+    {
+      "room_type": "entire home/apt",
+      "listings": 352,
+      "hosts": 156,
+      "priced": 332,
+      "median_price": 170.0,
+      "mean_price": 372.7767168674699,
+      "mean_ci95_low": 180.02011209882986,
+      "mean_ci95_high": 790.4225334103745,
+      "average_rating": 4.703931888544891,
+      "unavailable_share": 0.29687889165628895,
+      "reviews_last_365d": 5214
+    },
+    {
+      "room_type": "private room",
+      "listings": 147,
+      "hosts": 53,
+      "priced": 134,
+      "median_price": 75.0,
+      "mean_price": 89.84873134328357,
+      "mean_ci95_low": 72.83179061094009,
+      "mean_ci95_high": 108.85884323550465,
+      "average_rating": 4.82312,
+      "unavailable_share": 0.33374336035784175,
+      "reviews_last_365d": 1156
+    },
+    {
+      "room_type": "shared room",
+      "listings": 1,
+      "hosts": 1,
+      "priced": 1,
+      "median_price": 840.0,
+      "mean_price": 840.0,
+      "mean_ci95_low": null,
+      "mean_ci95_high": null,
+      "average_rating": 4.7,
+      "unavailable_share": 0.8164383561643835,
+      "reviews_last_365d": 3
+    }
+  ],
+  "host_segments": [
+    {
+      "host_segment": "multiple listings",
+      "listings": 382,
+      "hosts": 82,
+      "priced": 363,
+      "median_price": 139.5,
+      "mean_price": 321.96225895316803,
+      "mean_ci95_low": 142.1358629513533,
+      "mean_ci95_high": 699.3879173905607,
+      "average_rating": 4.732578796561604,
+      "unavailable_share": 0.2877429534533458,
+      "reviews_last_365d": 4635
+    },
+    {
+      "host_segment": "single listing",
+      "listings": 118,
+      "hosts": 118,
+      "priced": 104,
+      "median_price": 157.91500000000002,
+      "mean_price": 190.08942307692308,
+      "mean_ci95_low": 167.87412019230769,
+      "mean_ci95_high": 218.8752235576923,
+      "average_rating": 4.7528999999999995,
+      "unavailable_share": 0.3767819828186673,
+      "reviews_last_365d": 1738
+    }
+  ],
+  "calendar_months": [
+    {
+      "month": "2026-09",
+      "days": 7500,
+      "known_days": 7500,
+      "available_share": 0.4896,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2026-10",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.6450967742,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2026-11",
+      "days": 15000,
+      "known_days": 15000,
+      "available_share": 0.7308,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2026-12",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.7512258065,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-01",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.7441290323,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-02",
+      "days": 14000,
+      "known_days": 14000,
+      "available_share": 0.7678571429,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-03",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.7405806452,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-04",
+      "days": 15000,
+      "known_days": 15000,
+      "available_share": 0.7238666667,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-05",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.7256129032,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-06",
+      "days": 15000,
+      "known_days": 15000,
+      "available_share": 0.6628666667,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-07",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.620516129,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-08",
+      "days": 15500,
+      "known_days": 15500,
+      "available_share": 0.6290322581,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    },
+    {
+      "month": "2027-09",
+      "days": 7500,
+      "known_days": 7500,
+      "available_share": 0.6261333333,
+      "median_price": null,
+      "priced_days": 0,
+      "median_minimum_nights": 2.0
+    }
+  ],
+  "review_months": [
+    {
+      "month": "2014-07",
+      "reviews": 1
+    },
+    {
+      "month": "2014-08",
+      "reviews": 4
+    },
+    {
+      "month": "2014-09",
+      "reviews": 5
+    },
+    {
+      "month": "2014-10",
+      "reviews": 8
+    },
+    {
+      "month": "2014-11",
+      "reviews": 8
+    },
+    {
+      "month": "2014-12",
+      "reviews": 3
+    },
+    {
+      "month": "2015-01",
+      "reviews": 1
+    },
+    {
+      "month": "2015-03",
+      "reviews": 2
+    },
+    {
+      "month": "2015-04",
+      "reviews": 6
+    },
+    {
+      "month": "2015-05",
+      "reviews": 7
+    },
+    {
+      "month": "2015-06",
+      "reviews": 19
+    },
+    {
+      "month": "2015-07",
+      "reviews": 22
+    },
+    {
+      "month": "2015-08",
+      "reviews": 9
+    },
+    {
+      "month": "2015-09",
+      "reviews": 11
+    },
+    {
+      "month": "2015-10",
+      "reviews": 12
+    },
+    {
+      "month": "2015-11",
+      "reviews": 4
+    },
+    {
+      "month": "2015-12",
+      "reviews": 10
+    },
+    {
+      "month": "2016-01",
+      "reviews": 12
+    },
+    {
+      "month": "2016-02",
+      "reviews": 17
+    },
+    {
+      "month": "2016-03",
+      "reviews": 11
+    },
+    {
+      "month": "2016-04",
+      "reviews": 13
+    },
+    {
+      "month": "2016-05",
+      "reviews": 24
+    },
+    {
+      "month": "2016-06",
+      "reviews": 14
+    },
+    {
+      "month": "2016-07",
+      "reviews": 30
+    },
+    {
+      "month": "2016-08",
+      "reviews": 22
+    },
+    {
+      "month": "2016-09",
+      "reviews": 24
+    },
+    {
+      "month": "2016-10",
+      "reviews": 22
+    },
+    {
+      "month": "2016-11",
+      "reviews": 14
+    },
+    {
+      "month": "2016-12",
+      "reviews": 19
+    },
+    {
+      "month": "2017-01",
+      "reviews": 17
+    },
+    {
+      "month": "2017-02",
+      "reviews": 7
+    },
+    {
+      "month": "2017-03",
+      "reviews": 12
+    },
+    {
+      "month": "2017-04",
+      "reviews": 29
+    },
+    {
+      "month": "2017-05",
+      "reviews": 43
+    },
+    {
+      "month": "2017-06",
+      "reviews": 27
+    },
+    {
+      "month": "2017-07",
+      "reviews": 39
+    },
+    {
+      "month": "2017-08",
+      "reviews": 35
+    },
+    {
+      "month": "2017-09",
+      "reviews": 46
+    },
+    {
+      "month": "2017-10",
+      "reviews": 68
+    },
+    {
+      "month": "2017-11",
+      "reviews": 44
+    },
+    {
+      "month": "2017-12",
+      "reviews": 47
+    },
+    {
+      "month": "2018-01",
+      "reviews": 55
+    },
+    {
+      "month": "2018-02",
+      "reviews": 40
+    },
+    {
+      "month": "2018-03",
+      "reviews": 45
+    },
+    {
+      "month": "2018-04",
+      "reviews": 52
+    },
+    {
+      "month": "2018-05",
+      "reviews": 63
+    },
+    {
+      "month": "2018-06",
+      "reviews": 52
+    },
+    {
+      "month": "2018-07",
+      "reviews": 84
+    },
+    {
+      "month": "2018-08",
+      "reviews": 93
+    },
+    {
+      "month": "2018-09",
+      "reviews": 71
+    },
+    {
+      "month": "2018-10",
+      "reviews": 108
+    },
+    {
+      "month": "2018-11",
+      "reviews": 85
+    },
+    {
+      "month": "2018-12",
+      "reviews": 99
+    },
+    {
+      "month": "2019-01",
+      "reviews": 99
+    },
+    {
+      "month": "2019-02",
+      "reviews": 97
+    },
+    {
+      "month": "2019-03",
+      "reviews": 147
+    },
+    {
+      "month": "2019-04",
+      "reviews": 103
+    },
+    {
+      "month": "2019-05",
+      "reviews": 172
+    },
+    {
+      "month": "2019-06",
+      "reviews": 122
+    },
+    {
+      "month": "2019-07",
+      "reviews": 191
+    },
+    {
+      "month": "2019-08",
+      "reviews": 180
+    },
+    {
+      "month": "2019-09",
+      "reviews": 161
+    },
+    {
+      "month": "2019-10",
+      "reviews": 159
+    },
+    {
+      "month": "2019-11",
+      "reviews": 105
+    },
+    {
+      "month": "2019-12",
+      "reviews": 117
+    },
+    {
+      "month": "2020-01",
+      "reviews": 112
+    },
+    {
+      "month": "2020-02",
+      "reviews": 112
+    },
+    {
+      "month": "2020-03",
+      "reviews": 76
+    },
+    {
+      "month": "2020-04",
+      "reviews": 28
+    },
+    {
+      "month": "2020-05",
+      "reviews": 47
+    },
+    {
+      "month": "2020-06",
+      "reviews": 79
+    },
+    {
+      "month": "2020-07",
+      "reviews": 104
+    },
+    {
+      "month": "2020-08",
+      "reviews": 143
+    },
+    {
+      "month": "2020-09",
+      "reviews": 148
+    },
+    {
+      "month": "2020-10",
+      "reviews": 148
+    },
+    {
+      "month": "2020-11",
+      "reviews": 110
+    },
+    {
+      "month": "2020-12",
+      "reviews": 79
+    },
+    {
+      "month": "2021-01",
+      "reviews": 97
+    },
+    {
+      "month": "2021-02",
+      "reviews": 144
+    },
+    {
+      "month": "2021-03",
+      "reviews": 152
+    },
+    {
+      "month": "2021-04",
+      "reviews": 150
+    },
+    {
+      "month": "2021-05",
+      "reviews": 182
+    },
+    {
+      "month": "2021-06",
+      "reviews": 183
+    },
+    {
+      "month": "2021-07",
+      "reviews": 241
+    },
+    {
+      "month": "2021-08",
+      "reviews": 288
+    },
+    {
+      "month": "2021-09",
+      "reviews": 245
+    },
+    {
+      "month": "2021-10",
+      "reviews": 268
+    },
+    {
+      "month": "2021-11",
+      "reviews": 228
+    },
+    {
+      "month": "2021-12",
+      "reviews": 226
+    },
+    {
+      "month": "2022-01",
+      "reviews": 220
+    },
+    {
+      "month": "2022-02",
+      "reviews": 244
+    },
+    {
+      "month": "2022-03",
+      "reviews": 244
+    },
+    {
+      "month": "2022-04",
+      "reviews": 290
+    },
+    {
+      "month": "2022-05",
+      "reviews": 349
+    },
+    {
+      "month": "2022-06",
+      "reviews": 326
+    },
+    {
+      "month": "2022-07",
+      "reviews": 349
+    },
+    {
+      "month": "2022-08",
+      "reviews": 389
+    },
+    {
+      "month": "2022-09",
+      "reviews": 276
+    },
+    {
+      "month": "2022-10",
+      "reviews": 381
+    },
+    {
+      "month": "2022-11",
+      "reviews": 227
+    },
+    {
+      "month": "2022-12",
+      "reviews": 198
+    },
+    {
+      "month": "2023-01",
+      "reviews": 218
+    },
+    {
+      "month": "2023-02",
+      "reviews": 276
+    },
+    {
+      "month": "2023-03",
+      "reviews": 299
+    },
+    {
+      "month": "2023-04",
+      "reviews": 298
+    },
+    {
+      "month": "2023-05",
+      "reviews": 356
+    },
+    {
+      "month": "2023-06",
+      "reviews": 357
+    },
+    {
+      "month": "2023-07",
+      "reviews": 425
+    },
+    {
+      "month": "2023-08",
+      "reviews": 436
+    },
+    {
+      "month": "2023-09",
+      "reviews": 373
+    },
+    {
+      "month": "2023-10",
+      "reviews": 404
+    },
+    {
+      "month": "2023-11",
+      "reviews": 265
+    },
+    {
+      "month": "2023-12",
+      "reviews": 307
+    },
+    {
+      "month": "2024-01",
+      "reviews": 252
+    },
+    {
+      "month": "2024-02",
+      "reviews": 360
+    },
+    {
+      "month": "2024-03",
+      "reviews": 414
+    },
+    {
+      "month": "2024-04",
+      "reviews": 485
+    },
+    {
+      "month": "2024-05",
+      "reviews": 482
+    },
+    {
+      "month": "2024-06",
+      "reviews": 475
+    },
+    {
+      "month": "2024-07",
+      "reviews": 506
+    },
+    {
+      "month": "2024-08",
+      "reviews": 531
+    },
+    {
+      "month": "2024-09",
+      "reviews": 494
+    },
+    {
+      "month": "2024-10",
+      "reviews": 596
+    },
+    {
+      "month": "2024-11",
+      "reviews": 397
+    },
+    {
+      "month": "2024-12",
+      "reviews": 336
+    },
+    {
+      "month": "2025-01",
+      "reviews": 336
+    },
+    {
+      "month": "2025-02",
+      "reviews": 424
+    },
+    {
+      "month": "2025-03",
+      "reviews": 401
+    },
+    {
+      "month": "2025-04",
+      "reviews": 347
+    },
+    {
+      "month": "2025-05",
+      "reviews": 539
+    },
+    {
+      "month": "2025-06",
+      "reviews": 548
+    },
+    {
+      "month": "2025-07",
+      "reviews": 648
+    },
+    {
+      "month": "2025-08",
+      "reviews": 663
+    },
+    {
+      "month": "2025-09",
+      "reviews": 511
+    },
+    {
+      "month": "2025-10",
+      "reviews": 593
+    },
+    {
+      "month": "2025-11",
+      "reviews": 471
+    },
+    {
+      "month": "2025-12",
+      "reviews": 360
+    },
+    {
+      "month": "2026-01",
+      "reviews": 348
+    },
+    {
+      "month": "2026-02",
+      "reviews": 477
+    },
+    {
+      "month": "2026-03",
+      "reviews": 494
+    },
+    {
+      "month": "2026-04",
+      "reviews": 503
+    },
+    {
+      "month": "2026-05",
+      "reviews": 645
+    },
+    {
+      "month": "2026-06",
+      "reviews": 635
+    },
+    {
+      "month": "2026-07",
+      "reviews": 727
+    },
+    {
+      "month": "2026-08",
+      "reviews": 742
+    },
+    {
+      "month": "2026-09",
+      "reviews": 146
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "H1",
+      "question": "Entire home vs private room mean nightly price",
+      "test": "Welch independent t test",
+      "alternative": "greater",
+      "n_a": 134,
+      "n_b": 45,
+      "unit": "one deterministic listing per host",
+      "null": "group means are equal",
+      "status": "ok",
+      "statistic": 2.3121672138504965,
+      "p_value": 0.011143175798053401,
+      "mean_a": 285.0282089552239,
+      "mean_b": 84.88755555555555,
+      "difference": 200.14065339966834,
+      "ci95_low": 28.947315422610103,
+      "ci95_high": 371.33399137672654,
+      "cohens_d": 0.23103734512856336,
+      "shapiro_p_a": 7.633920052620158e-25,
+      "shapiro_p_b": 3.476611863340477e-05,
+      "levene_p": 0.3806221352179419,
+      "trimmed_20pct_p": 2.7093819836898876e-16,
+      "trimmed_mean_difference": 105.33212737127371,
+      "rank_sensitivity_p": 3.078471999082921e-15,
+      "probability_a_exceeds_b": 0.8891376451077944,
+      "caveat": "Exploratory association; host selection changes the estimand. Welch allows unequal variance; skew and small groups weaken normal approximation.",
+      "p_holm": 0.033429527394160205,
+      "reject_at_005": true,
+      "trimmed_p_holm": 8.128145951069662e-16
+    },
+    {
+      "id": "H2",
+      "question": "Superhost vs non-superhost mean rating",
+      "test": "Welch independent t test",
+      "alternative": "greater",
+      "n_a": 85,
+      "n_b": 89,
+      "unit": "one deterministic listing per host",
+      "null": "group means are equal",
+      "status": "ok",
+      "statistic": 5.385625578109793,
+      "p_value": 2.6394254370080005e-07,
+      "mean_a": 4.907176470588236,
+      "mean_b": 4.631123595505618,
+      "difference": 0.2760528750826179,
+      "ci95_low": 0.17428466638993903,
+      "ci95_high": 0.3778210837752968,
+      "cohens_d": 0.7993393936817998,
+      "shapiro_p_a": 2.3816874809415448e-06,
+      "shapiro_p_b": 2.6389114811139594e-11,
+      "levene_p": 4.45437340320238e-08,
+      "trimmed_20pct_p": 2.783462121959805e-05,
+      "trimmed_mean_difference": 0.1686488413547238,
+      "rank_sensitivity_p": 3.271415394807457e-05,
+      "probability_a_exceeds_b": 0.6741573033707865,
+      "caveat": "Exploratory association; host selection changes the estimand. Welch allows unequal variance; skew and small groups weaken normal approximation.",
+      "p_holm": 1.0557701748032002e-06,
+      "reject_at_005": true,
+      "trimmed_p_holm": 5.56692424391961e-05
+    },
+    {
+      "id": "H3",
+      "question": "More than 10 vs fewer than 10 reviews: mean price",
+      "test": "Welch independent t test",
+      "alternative": "two-sided",
+      "n_a": 105,
+      "n_b": 71,
+      "unit": "one deterministic listing per host",
+      "null": "group means are equal",
+      "status": "ok",
+      "statistic": -0.735164302486537,
+      "p_value": 0.46467789009142146,
+      "mean_a": 181.9592380952381,
+      "mean_b": 301.869014084507,
+      "difference": -119.9097759892689,
+      "ci95_low": -445.1736581846899,
+      "ci95_high": 205.3541062061521,
+      "cohens_d": -0.13726158547958825,
+      "shapiro_p_a": 3.291167745982445e-05,
+      "shapiro_p_b": 1.900293625907693e-18,
+      "levene_p": 0.28042556652105094,
+      "trimmed_20pct_p": 0.007323732596283052,
+      "trimmed_mean_difference": 40.01188630490958,
+      "rank_sensitivity_p": 0.007144896860947335,
+      "probability_a_exceeds_b": 0.6197183098591549,
+      "caveat": "Exploratory association; host selection changes the estimand. Welch allows unequal variance; skew and small groups weaken normal approximation.",
+      "p_holm": 0.46467789009142146,
+      "reject_at_005": false,
+      "trimmed_p_holm": 0.007323732596283052
+    },
+    {
+      "id": "H4",
+      "question": "Price distributions differ across neighbourhoods",
+      "test": "Kruskal-Wallis",
+      "unit": "one deterministic listing per host",
+      "null": "eligible neighbourhood price distributions are equal",
+      "minimum_group_hosts": 5,
+      "groups": 14,
+      "status": "ok",
+      "statistic": 20.319297597751167,
+      "p_value": 0.08752964748272363,
+      "n": 180,
+      "epsilon_squared": 0.04409215420332028,
+      "caveat": "Rank test chosen for skew; distributions, not necessarily means/medians. Shape equality is not assumed; excluded small areas are not tested.",
+      "p_holm": 0.17505929496544725,
+      "reject_at_005": false
+    },
+    {
+      "id": "H5",
+      "question": "Weekend minus weekday nightly price",
+      "test": "One-sample t test of host-average paired differences",
+      "null": "mean within-host difference is zero",
+      "status": "not estimable",
+      "reason": "Calendar contains no usable paired nightly prices; listing price is not a substitute"
+    }
+  ],
+  "regression": {
+    "status": "ok",
+    "n": 467,
+    "hosts": 184,
+    "r_squared": 0.2884171203992011,
+    "coefficients": [
+      {
+        "feature": "const",
+        "coefficient": 4.46564439891521,
+        "p_value": 1.6735768811326474e-123,
+        "ci95_low": 4.095328893763751,
+        "ci95_high": 4.835959904066669,
+        "vif": null
+      },
+      {
+        "feature": "accommodates",
+        "coefficient": 0.16807926310731877,
+        "p_value": 6.076669283026609e-14,
+        "ci95_low": 0.12419291718970178,
+        "ci95_high": 0.21196560902493577,
+        "vif": 1.8075953805353766
+      },
+      {
+        "feature": "bedrooms",
+        "coefficient": 0.008721448079591436,
+        "p_value": 0.8293610255539157,
+        "ci95_low": -0.0705919941024701,
+        "ci95_high": 0.08803489026165297,
+        "vif": 2.084348693199197
+      },
+      {
+        "feature": "bathrooms",
+        "coefficient": -0.08594013830781043,
+        "p_value": 0.040890308113240695,
+        "ci95_low": -0.16832115899975952,
+        "ci95_high": -0.0035591176158613347,
+        "vif": 1.4844295397424827
+      },
+      {
+        "feature": "host_tenure_years",
+        "coefficient": 0.00513122999490675,
+        "p_value": 0.708600572319598,
+        "ci95_low": -0.02177819259652443,
+        "ci95_high": 0.03204065258633793,
+        "vif": 1.0137796128733172
+      }
+    ],
+    "method": "Complete-case log-price OLS with host-clustered standard errors",
+    "caveat": "Associational reduced model; location and property quality confound effects. Missing values select the sample; coefficients are not causal price recommendations."
+  },
+  "models": {
+    "status": "ok",
+    "train_rows": 387,
+    "test_rows": 80,
+    "train_hosts": 147,
+    "test_hosts": 37,
+    "host_overlap": 0,
+    "folds": 5,
+    "selection": "lowest training group-CV MAE",
+    "selected_model": "median_baseline",
+    "explained_model": "extra_trees",
+    "scores": [
+      {
+        "model": "median_baseline",
+        "cv_mae": 227.40373326673324,
+        "cv_mae_std": 298.8999896504726,
+        "test_mae": 92.4605,
+        "test_rmse": 130.22508816468508,
+        "test_mape_pct": 84.61370112605675
+      },
+      {
+        "model": "ridge",
+        "cv_mae": 477.2542964836381,
+        "cv_mae_std": 162.09646356779325,
+        "test_mae": 367.81616775432,
+        "test_rmse": 472.1989052065692,
+        "test_mape_pct": 303.5878148212151
+      },
+      {
+        "model": "extra_trees",
+        "cv_mae": 335.4853347144316,
+        "cv_mae_std": 240.9353967884576,
+        "test_mae": 282.2303331526864,
+        "test_rmse": 772.5544300866535,
+        "test_mape_pct": 214.32993050698306
+      },
+      {
+        "model": "hist_gradient_boosting",
+        "cv_mae": 468.81412927009916,
+        "cv_mae_std": 182.94016932748804,
+        "test_mae": 238.01769561524847,
+        "test_rmse": 400.2737078267787,
+        "test_mape_pct": 176.19533318391535
+      }
+    ],
+    "features": [
+      "accommodates",
+      "bedrooms",
+      "bathrooms",
+      "beds",
+      "latitude",
+      "longitude",
+      "amenity_count",
+      "host_tenure_years",
+      "room_type",
+      "property_type",
+      "neighbourhood"
+    ],
+    "importance": [
+      {
+        "feature": "property_type",
+        "mae_increase": 147.6500126763,
+        "std": 88.3945783318
+      },
+      {
+        "feature": "neighbourhood",
+        "mae_increase": 53.2620770056,
+        "std": 64.6543042662
+      },
+      {
+        "feature": "amenity_count",
+        "mae_increase": 9.7730752223,
+        "std": 19.5205245696
+      },
+      {
+        "feature": "room_type",
+        "mae_increase": 5.4998960148,
+        "std": 0.857423354
+      },
+      {
+        "feature": "bedrooms",
+        "mae_increase": -0.7648512226,
+        "std": 1.3609557534
+      },
+      {
+        "feature": "beds",
+        "mae_increase": -1.9637595775,
+        "std": 11.2950254462
+      },
+      {
+        "feature": "bathrooms",
+        "mae_increase": -2.034609064,
+        "std": 0.3433748126
+      },
+      {
+        "feature": "accommodates",
+        "mae_increase": -2.1504711968,
+        "std": 5.1976860152
+      },
+      {
+        "feature": "latitude",
+        "mae_increase": -15.5137941317,
+        "std": 5.0267611545
+      },
+      {
+        "feature": "longitude",
+        "mae_increase": -36.2742783399,
+        "std": 9.9633913721
+      },
+      {
+        "feature": "host_tenure_years",
+        "mae_increase": -50.7816156938,
+        "std": 20.9874244372
+      }
+    ],
+    "neighbourhood_errors": [
+      {
+        "neighbourhood": "EIGHTH WARD",
+        "n": 3,
+        "mae": 121.0,
+        "mean_residual": 71.6666666667
+      },
+      {
+        "neighbourhood": "ELEVENTH WARD",
+        "n": 3,
+        "mae": 83.4666666667,
+        "mean_residual": -83.4666666667
+      },
+      {
+        "neighbourhood": "FIFTEENTH WARD",
+        "n": 11,
+        "mae": 158.4418181818,
+        "mean_residual": 136.7454545455
+      },
+      {
+        "neighbourhood": "FIRST WARD",
+        "n": 3,
+        "mae": 64.49,
+        "mean_residual": -3.29
+      },
+      {
+        "neighbourhood": "FOURTEENTH WARD",
+        "n": 5,
+        "mae": 108.018,
+        "mean_residual": 63.802
+      },
+      {
+        "neighbourhood": "NINTH WARD",
+        "n": 5,
+        "mae": 56.6,
+        "mean_residual": 26.2
+      },
+      {
+        "neighbourhood": "SIXTH WARD",
+        "n": 15,
+        "mae": 39.276,
+        "mean_residual": -9.316
+      },
+      {
+        "neighbourhood": "TENTH WARD",
+        "n": 16,
+        "mae": 93.07,
+        "mean_residual": -75.57
+      },
+      {
+        "neighbourhood": "THIRD WARD",
+        "n": 4,
+        "mae": 59.0175,
+        "mean_residual": -19.5175
+      },
+      {
+        "neighbourhood": "THIRTEENTH WARD",
+        "n": 8,
+        "mae": 137.31375,
+        "mean_residual": 4.18625
+      }
+    ],
+    "caveat": "One city, one snapshot and one group holdout. No temporal or cross-city validation; no deployment claim. MAPE is sensitive to cheap listings."
+  },
+  "revenue_scenarios": {
+    "priced_unavailable_days": 0,
+    "total_known_unavailable_days": 56348,
+    "method": "Sum observed prices on unavailable days, multiplied by a hypothetical booked fraction. Excludes missing prices, taxes, fees and costs; not measured revenue.",
+    "gross_scenarios": null
+  },
+  "descriptive": [
+    {
+      "index": "count",
+      "price": 467.0,
+      "accommodates": 500.0,
+      "bedrooms": 500.0,
+      "bathrooms": 500.0,
+      "minimum_nights": 499.0,
+      "availability_365": 500.0,
+      "number_of_reviews": 500.0,
+      "review_scores_rating": 449.0,
+      "host_tenure_years": 500.0
+    },
+    {
+      "index": "mean",
+      "price": 292.5944325482,
+      "accommodates": 3.386,
+      "bedrooms": 1.642,
+      "bathrooms": 1.252,
+      "minimum_nights": 6.7935871743,
+      "availability_365": 251.638,
+      "number_of_reviews": 60.502,
+      "review_scores_rating": 4.7371046771,
+      "host_tenure_years": 7.5898333333
+    },
+    {
+      "index": "std",
+      "price": 1193.1422092665,
+      "accommodates": 2.4838161537,
+      "bedrooms": 1.2102749816,
+      "bathrooms": 0.6397770153,
+      "minimum_nights": 19.584424364,
+      "availability_365": 122.494509124,
+      "number_of_reviews": 112.3695859372,
+      "review_scores_rating": 0.4066265729,
+      "host_tenure_years": 3.550173892
+    },
+    {
+      "index": "min",
+      "price": 29.8,
+      "accommodates": 1.0,
+      "bedrooms": 0.0,
+      "bathrooms": 0.0,
+      "minimum_nights": 1.0,
+      "availability_365": 0.0,
+      "number_of_reviews": 0.0,
+      "review_scores_rating": 1.0,
+      "host_tenure_years": 0.0
+    },
+    {
+      "index": "25%",
+      "price": 89.19,
+      "accommodates": 2.0,
+      "bedrooms": 1.0,
+      "bathrooms": 1.0,
+      "minimum_nights": 1.0,
+      "availability_365": 155.75,
+      "number_of_reviews": 3.0,
+      "review_scores_rating": 4.67,
+      "host_tenure_years": 4.1666666667
+    },
+    {
+      "index": "50%",
+      "price": 144.0,
+      "accommodates": 2.0,
+      "bedrooms": 1.0,
+      "bathrooms": 1.0,
+      "minimum_nights": 2.0,
+      "availability_365": 313.0,
+      "number_of_reviews": 19.0,
+      "review_scores_rating": 4.87,
+      "host_tenure_years": 8.0
+    },
+    {
+      "index": "75%",
+      "price": 209.125,
+      "accommodates": 4.0,
+      "bedrooms": 2.0,
+      "bathrooms": 1.0,
+      "minimum_nights": 4.0,
+      "availability_365": 355.0,
+      "number_of_reviews": 68.5,
+      "review_scores_rating": 4.99,
+      "host_tenure_years": 10.6875
+    },
+    {
+      "index": "max",
+      "price": 11680.0,
+      "accommodates": 16.0,
+      "bedrooms": 9.0,
+      "bathrooms": 7.0,
+      "minimum_nights": 365.0,
+      "availability_365": 365.0,
+      "number_of_reviews": 1006.0,
+      "review_scores_rating": 5.0,
+      "host_tenure_years": 15.25
+    }
+  ],
+  "correlations": [
+    {
+      "index": "price",
+      "price": 1.0,
+      "accommodates": 0.7054250681,
+      "bedrooms": 0.4833000996,
+      "bathrooms": 0.141933004,
+      "minimum_nights": -0.3866575343,
+      "availability_365": -0.0271611122,
+      "number_of_reviews": 0.2559021486,
+      "review_scores_rating": 0.0123279922,
+      "host_tenure_years": 0.1316758132
+    },
+    {
+      "index": "accommodates",
+      "price": 0.7054250681,
+      "accommodates": 1.0,
+      "bedrooms": 0.6955502894,
+      "bathrooms": 0.1810933526,
+      "minimum_nights": -0.1928374114,
+      "availability_365": -0.0412766804,
+      "number_of_reviews": 0.2187569671,
+      "review_scores_rating": -0.0545249997,
+      "host_tenure_years": 0.027772988
+    },
+    {
+      "index": "bedrooms",
+      "price": 0.4833000996,
+      "accommodates": 0.6955502894,
+      "bedrooms": 1.0,
+      "bathrooms": 0.3781255055,
+      "minimum_nights": 0.0488196385,
+      "availability_365": -0.0738185715,
+      "number_of_reviews": 0.0278865492,
+      "review_scores_rating": 0.092854386,
+      "host_tenure_years": 0.0663690658
+    },
+    {
+      "index": "bathrooms",
+      "price": 0.141933004,
+      "accommodates": 0.1810933526,
+      "bedrooms": 0.3781255055,
+      "bathrooms": 1.0,
+      "minimum_nights": 0.0360248445,
+      "availability_365": -0.0992130851,
+      "number_of_reviews": 0.0323626813,
+      "review_scores_rating": 0.1936273372,
+      "host_tenure_years": -0.0489924256
+    },
+    {
+      "index": "minimum_nights",
+      "price": -0.3866575343,
+      "accommodates": -0.1928374114,
+      "bedrooms": 0.0488196385,
+      "bathrooms": 0.0360248445,
+      "minimum_nights": 1.0,
+      "availability_365": -0.0912297291,
+      "number_of_reviews": -0.3724537409,
+      "review_scores_rating": 0.2103589923,
+      "host_tenure_years": 0.0870085991
+    },
+    {
+      "index": "availability_365",
+      "price": -0.0271611122,
+      "accommodates": -0.0412766804,
+      "bedrooms": -0.0738185715,
+      "bathrooms": -0.0992130851,
+      "minimum_nights": -0.0912297291,
+      "availability_365": 1.0,
+      "number_of_reviews": -0.2586753596,
+      "review_scores_rating": -0.2117124402,
+      "host_tenure_years": -0.1287858877
+    },
+    {
+      "index": "number_of_reviews",
+      "price": 0.2559021486,
+      "accommodates": 0.2187569671,
+      "bedrooms": 0.0278865492,
+      "bathrooms": 0.0323626813,
+      "minimum_nights": -0.3724537409,
+      "availability_365": -0.2586753596,
+      "number_of_reviews": 1.0,
+      "review_scores_rating": -0.1006755457,
+      "host_tenure_years": 0.279580059
+    },
+    {
+      "index": "review_scores_rating",
+      "price": 0.0123279922,
+      "accommodates": -0.0545249997,
+      "bedrooms": 0.092854386,
+      "bathrooms": 0.1936273372,
+      "minimum_nights": 0.2103589923,
+      "availability_365": -0.2117124402,
+      "number_of_reviews": -0.1006755457,
+      "review_scores_rating": 1.0,
+      "host_tenure_years": 0.1215258285
+    },
+    {
+      "index": "host_tenure_years",
+      "price": 0.1316758132,
+      "accommodates": 0.027772988,
+      "bedrooms": 0.0663690658,
+      "bathrooms": -0.0489924256,
+      "minimum_nights": 0.0870085991,
+      "availability_365": -0.1287858877,
+      "number_of_reviews": 0.279580059,
+      "review_scores_rating": 0.1215258285,
+      "host_tenure_years": 1.0
+    }
+  ]
+}

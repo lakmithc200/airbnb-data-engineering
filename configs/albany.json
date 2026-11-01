@@ -1,0 +1,19 @@
+{
+  "city": "albany",
+  "display_name": "Albany, New York",
+  "snapshot_date": "2026-09-14",
+  "country_path": "united-states/ny/albany",
+  "currency": "USD",
+  "seed": 42,
+  "source": "https://insideairbnb.com/get-the-data/",
+  "license": "CC BY 4.0",
+  "files": {
+    "listings": "data/listings.csv.gz",
+    "calendar": "data/calendar.csv.gz",
+    "reviews": "data/reviews.csv.gz",
+    "listings_summary": "visualisations/listings.csv",
+    "reviews_summary": "visualisations/reviews.csv",
+    "neighbourhoods": "visualisations/neighbourhoods.csv",
+    "boundaries": "visualisations/neighbourhoods.geojson"
+  }
+}

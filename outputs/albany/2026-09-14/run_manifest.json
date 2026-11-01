@@ -1,0 +1,63 @@
+{
+  "started_at": "2026-11-01T08:44:27.161860+00:00",
+  "status": "success",
+  "city": "albany",
+  "snapshot_date": "2026-09-14",
+  "fingerprint": "75cf7291efd1bee7a4e355d4640d2a2dd97326ada039c9f4fdfff0314707c845",
+  "environment": {
+    "pandas": "3.0.1",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "duckdb": "2.0.0",
+    "statsmodels": "0.15.0",
+    "matplotlib": "3.11.2",
+    "reportlab": "4.4.9"
+  },
+  "python": "3.12.14",
+  "row_counts": {
+    "dim_listing": 500,
+    "dim_host": 200,
+    "fact_calendar": 182500,
+    "fact_review": 30251
+  },
+  "completed_at": "2026-11-01T08:44:46.302952+00:00",
+  "elapsed_seconds": 19.16,
+  "lineage": {
+    "dim_listing": "detailed listings + review counts + calendar coverage",
+    "dim_host": "clean listings grouped by host_id",
+    "dim_date": "distinct review/calendar dates",
+    "dim_neighbourhood": "distinct clean listing neighbourhoods",
+    "fact_calendar": "validated calendar listing/date rows",
+    "fact_review": "deduplicated review id/listing/date; reviewer text removed",
+    "reports": "clean warehouse-equivalent frames -> analysis -> figures, HTML, PDF"
+  },
+  "outputs": {
+    "outputs/albany/2026-09-14/analysis.json": "e00f81b4192461be2a14124ceb7581ae602cb3c6c33c648bac01db3bbbb6e52c",
+    "outputs/albany/2026-09-14/calendar_months.csv": "6cc4b5c3cd41bb2a394db9953c5537e940d0a313e53828c150fb64efb4c20acc",
+    "outputs/albany/2026-09-14/correlations.csv": "3b717d46db851f1dc2a0f74aecf48ae0ceb74217ac3694ad228d7d3216314256",
+    "outputs/albany/2026-09-14/descriptive.csv": "9f3b02e9fde3cf990b52783f4364f94c0918c088376d671a5aeea191bc6f16e3",
+    "outputs/albany/2026-09-14/explorer.html": "1a0b01675c947f968ea711285094daa531f1148f739ee2ecbfd440477f9b2e13",
+    "outputs/albany/2026-09-14/host_segments.csv": "2eb25181f52cf6dcdbacaca517a379e210e43872f2693d13d38e60aadd9a1d07",
+    "outputs/albany/2026-09-14/market_report.pdf": "9f1622258ca11703d0185d996ceba7773d5fcd3fd32886b220ff382b5ef0828b",
+    "outputs/albany/2026-09-14/neighbourhoods.csv": "a0a5e26440f30768320be92e3368843b73ab0a4c0e4b5e0cdac18f26952b915b",
+    "outputs/albany/2026-09-14/quality_report.json": "118353c406e5d18c4de6101c33e3cf4c4528c84657e90ad3b2419ad95f445f0f",
+    "outputs/albany/2026-09-14/review_months.csv": "05a21a7535fa375944991ce4781a27d0dcba0429b99f393f0f32a2acf7e1296e",
+    "outputs/albany/2026-09-14/room_types.csv": "e0c5f432d16ac4df8b48e4ecb797062a79f8e934ccffda49d43ed29244d93dbf",
+    "outputs/albany/2026-09-14/schema_profile.json": "c68820e3efbd75d8523ee2435b4cc32f36e699c83ca43eeded59a67fa2c3d12b",
+    "outputs/albany/2026-09-14/source_manifest.json": "5c797a3663124d868104e0ea4ab0c707638cc21c0562080b90ec5b3ec1d809de",
+    "outputs/albany/2026-09-14/figures/availability.png": "dd1069b557905bc26bd323bb347da75ff282e9ee50af89485f04c7204bdbb8c9",
+    "outputs/albany/2026-09-14/figures/correlation.png": "e27d71a8493a66ce7b574ca865fde60cbdce83da0eff85c1de6f6200191eb6b7",
+    "outputs/albany/2026-09-14/figures/host_concentration.png": "1dbb1df4e0db6cd046649320b1c595b60da8fc97a54369f70fdcc14707f13182",
+    "outputs/albany/2026-09-14/figures/importance.png": "35991e0135ce57aa03c2db41e563e53bf04bb22021df6834b9470a3a55344694",
+    "outputs/albany/2026-09-14/figures/models.png": "3ed16a6cc1fb46bbc5f0f33ce3c154e8225552f392eeac97e67a8e061014f129",
+    "outputs/albany/2026-09-14/figures/neighbourhood_prices.png": "467577aef6161e7a595ec4ccd4f8b9ec4ba57ba86c1bf07452bd7f029042a9d1",
+    "outputs/albany/2026-09-14/figures/price_distribution.png": "2c7b9e9d5eb909f76cd4ba7cfc15f95f73188556682c2967804d1b59733215ef",
+    "outputs/albany/2026-09-14/figures/ratings.png": "f52f0a8e03266afdbf962696d3f32d37921777e07d9839f0835e2cd112ab4e6c",
+    "outputs/albany/2026-09-14/figures/residuals.png": "8b2a32231532436489380e0e4a337a8e7cfb66b15f44678d87136b7eca02b03e",
+    "outputs/albany/2026-09-14/figures/reviews.png": "0b738f8ff2b02209da8bcc51052e5be44fe82d80cc4a2b38da0dc676ca622510",
+    "outputs/albany/2026-09-14/figures/room_prices.png": "976d5151e3e12d4cf422161d0b40041b44863235df4cb2fee4edf3f26d078825",
+    "outputs/albany/2026-09-14/figures/supply_map.png": "3659483b42fc0ec99b9b8b5c2466c42953c72d826ef6b0d6962502da38f29b20",
+    "data/warehouse/albany/2026-09-14.duckdb": "416fcaa639d819bd386162c4f7bdc97d6fecf37a00f0bbb7678b3c91f896ea61"
+  }
+}
